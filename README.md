@@ -1,2 +1,2 @@
-#Maze
-!maze videogame made in C# 
+# Maze
+maze videogame made in C# 
