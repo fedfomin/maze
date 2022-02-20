@@ -1,2 +1,2 @@
 # Maze
-maze videogame made in C# 
+a videogame made in c#
