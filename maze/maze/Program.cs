@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Figgle;
+using System;
 using static System.Console;
 
 namespace maze
@@ -7,8 +8,7 @@ namespace maze
     {
         static void Main(string[] args)
         {
-            Write("Welcome to the maze game.");
-
+            Write(FiggleFonts.Standard.Render("Maze Game"));
             ReadKey(true);
         }
     }

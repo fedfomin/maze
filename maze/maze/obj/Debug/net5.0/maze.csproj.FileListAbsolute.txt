@@ -14,3 +14,4 @@ C:\Users\Fede\source\repos\maze-game\maze\maze\obj\Debug\net5.0\maze.dll
 C:\Users\Fede\source\repos\maze-game\maze\maze\obj\Debug\net5.0\ref\maze.dll
 C:\Users\Fede\source\repos\maze-game\maze\maze\obj\Debug\net5.0\maze.pdb
 C:\Users\Fede\source\repos\maze-game\maze\maze\obj\Debug\net5.0\maze.genruntimeconfig.cache
+C:\Users\Fede\source\repos\maze-game\maze\maze\bin\Debug\net5.0\Figgle.dll
